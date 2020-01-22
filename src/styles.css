@@ -6,7 +6,6 @@
 }
 
 ul {
-    display: flex;
     flex-direction: column;
     list-style-type: none;
     border: 1px solid red;
@@ -19,6 +18,6 @@ li {
     display: flex;
     justify-content: center;
     align-content: center;
-    margin: auto;
+    margin: 10% 15% 4% 0;
 }
 
